@@ -1,22 +1,22 @@
-# 👋 Hi, I'm Shiyi!
+# Hi, I'm Shiyi!
 
 Welcome to my portfolio repository! This is a central hub showcasing my projects and technical work.
 
-> **📝 Note**: This portfolio is a template. Replace the placeholder project information and contact details below with your actual projects and information to personalize your portfolio.
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate developer focused on building innovative solutions and learning new technologies. This portfolio serves as an overview of my journey and the projects I've worked on.
+Engine-focused Unreal Engine developer specializing in real-time immersive experiences, shader systems, and interactive XR environments. Experienced in end-to-end development of atmospheric VR applications, combining art direction, system architecture, and real-time optimization to deliver high-impact interactive experiences.
 
-## 💻 Technical Skills
+## Technical Skills
 
 - **Languages**: Python, JavaScript, Java, C++
+- **Unreal Engine 5**: Blueprints, Niagara, Materials/Shaders
 - **Web Development**: HTML, CSS, React, Node.js
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Tools & Technologies**: Git, Docker, AWS, CI/CD
-- **Other**: Machine Learning, Data Analysis, API Development
+- **Databases**: MySQL, MongoDB
+- **Tools & Technologies**: Git, VS Code, Visual Studio, 
+- **Others**: XR Prototyping, Experience Design, Data Analysis, Information Visualisation
 
-## 📂 Projects
+## Projects
 
 Here's an overview of my key projects. Click on each to learn more!
 
@@ -48,22 +48,11 @@ Here's an overview of my key projects. Click on each to learn more!
 | **Project 5** | Short description | JavaScript, Express | [View →](https://github.com/majagou/project-5) |
 | **Project 6** | Short description | React Native | [View →](https://github.com/majagou/project-6) |
 
-## 🎯 Current Focus
-
-- 🌱 Currently learning: Cloud Architecture, Kubernetes
-- 🔭 Working on: Building scalable web applications
-- 👯 Looking to collaborate on: Open source projects
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=majagou&show_icons=true&theme=radical)
-
 ## 📫 Get In Touch
 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio Website: [yourwebsite.com](https://yourwebsite.com)
+- 💼 LinkedIn: [Shiyi Gou](https://www.linkedin.com/in/shiyi-gou-1448582ab/)
+- 📧 Email: goumaja@gmail.com
+%% - 🌐 Portfolio Website: [yourwebsite.com](https://yourwebsite.com) %%
 
 ## 🤝 Contributing
 
@@ -75,4 +64,4 @@ Most of my projects are open source under the MIT License. Please check individu
 
 ---
 
-⭐️ From [majagou](https://github.com/majagou)
+⭐️ From [Shiyi Gou](https://github.com/majagou)
