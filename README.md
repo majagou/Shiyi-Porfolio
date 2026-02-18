@@ -19,7 +19,7 @@ Hello! I'm Shiyi Gou, a passionate developer with experience in web development,
 **Technologies Used:** JavaScript, Python, NLP, OpenAI API, Data Visualization
 
 **My Contributions:**
-- UI Design and implementation
+- UI design and implementation
 - Listening task functionality
 - Score ranking system
 - Automatic grading mechanism
