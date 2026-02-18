@@ -2,6 +2,8 @@
 
 Welcome to my portfolio repository! This is a central hub showcasing my projects and technical work.
 
+> **📝 Note**: This portfolio is a template. Replace the placeholder project information and contact details below with your actual projects and information to personalize your portfolio.
+
 ## 🚀 About Me
 
 I'm a passionate developer focused on building innovative solutions and learning new technologies. This portfolio serves as an overview of my journey and the projects I've worked on.
