@@ -22,11 +22,13 @@ Here's an overview of my key projects. Click on each to learn more!
 
 ### 🌟 Featured Projects
 
-#### 1. [Project Name 1](https://github.com/majagou/project-1)
-**Description**: A brief description of what this project does and the technologies used.
-- **Tech Stack**: Python, Flask, PostgreSQL
-- **Key Features**: Feature 1, Feature 2, Feature 3
-- **Status**: ✅ Completed / 🚧 In Progress
+#### 1. [The Hiddens](https://github.com/majagou/The_Hiddens_CAVE)
+**VR Escape Room Experience for the LED CAVE at the Leibniz Supercomputing Centre (LRZ)**
+
+A narrative-driven VR escape room set in a mysterious apartment environment, designed for the large-scale immersive LED CAVE setup at LRZ. The project combines environmental storytelling, horror atmosphere, and puzzle-based interaction to create a suspenseful exploration experience.
+
+- **Tech Stack**: Unreal Engine, Blueprint, Material/Shaders
+- **Key Features**: Interactable object highlight system, physics-based pickup and grabbing, puzzle validation logic, procedural portal VFX, dynamic jumpscare system
 
 #### 2. [Project Name 2](https://github.com/majagou/project-2)
 **Description**: Another project showcasing different skills and technologies.
