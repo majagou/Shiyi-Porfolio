@@ -27,20 +27,21 @@ Here's an overview of my key projects. Click on each to learn more!
 
 A narrative-driven VR escape room set in a mysterious apartment environment, designed for the large-scale immersive LED CAVE setup at LRZ. The project combines environmental storytelling, horror atmosphere, and puzzle-based interaction to create a suspenseful exploration experience.
 
-- **Tech Stack**:
+**Tech Stack**:
 - Unreal Engine 5
 - Blueprints
 - Materials/Shaders
 - Niagara System
 - Git + Git LFS for large Unreal assets
-- **Key Features**: Interactable object highlight system, physics-based pickup and grabbing, puzzle validation logic, procedural portal VFX, dynamic jumpscare system
 
-#### 2. Thermal Visuals in VR CAVE and HMD_Obstable Course [CAVE Ver](https://github.com/majagou/ThermalPerception_CAVE)|[HMD Ver](https://github.com/majagou/ThermalPercpetionHMD)
+**Key Features**: Interactable object highlight system, physics-based pickup and grabbing, puzzle validation logic, procedural portal VFX, dynamic jumpscare system
+
+#### 2. Thermal Visuals in VR CAVE and HMD_Obstable Course [CAVE Ver](https://github.com/majagou/ThermalPerception_CAVE) | [HMD Ver](https://github.com/majagou/ThermalPercpetionHMD)
 **A research-driven VR project exploring how visual design influences perceived temperature in immersive environments. Supervised under the Leibniz Supercomputing Centre (LRZ)**
 
 The project investigates how environmental visuals such as lighting, color, visual effects, scene composition, and atmosphere can shift users’ thermal perception, even when physical temperature remains unchanged.
 
-- **Tech Stack**:
+**Tech Stack**:
 - Unreal Engine 5
 - Blueprints
 - Materials/Shaders
@@ -53,7 +54,8 @@ The project investigates how environmental visuals such as lighting, color, visu
 - HMD VR setup and interaction support
 - Environmental VFX pipelines
 - Research-oriented scene variation design
-- **Key Features**: Feature 1, Feature 2, Feature 3
+
+**Key Features**: Feature 1, Feature 2, Feature 3
 
 #### 3. [Project Name 3](https://github.com/majagou/project-3)
 **Description**: Description of the third project.
