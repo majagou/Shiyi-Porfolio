@@ -23,41 +23,52 @@ Here's an overview of my key projects. Click on each to learn more!
 ### 🌟 Featured Projects
 
 #### 1. [The Hiddens](https://github.com/majagou/The_Hiddens_CAVE)
-**VR Escape Room Experience for the LED CAVE at the Leibniz Supercomputing Centre (LRZ)**
+**Narrative VR Escape Room for the LED CAVE at the Leibniz Supercomputing Centre (LRZ)**
 
 A narrative-driven VR escape room set in a mysterious apartment environment, designed for the large-scale immersive LED CAVE setup at LRZ. The project combines environmental storytelling, horror atmosphere, and puzzle-based interaction to create a suspenseful exploration experience.
 
 **Tech Stack**:
 - Unreal Engine 5
-- Blueprints
-- Materials/Shaders
-- Niagara System
-- Git + Git LFS for large Unreal assets
+- Blueprint scripting
+- Materials and shaders
+- Niagara VFX
+- Git and Git LFS for Unreal asset version control
 
-**Key Features**: Interactable object highlight system, physics-based pickup and grabbing, puzzle validation logic, procedural portal VFX, dynamic jumpscare system
+**Key Features**:
+- Designed and implemented immersive interaction systems for a room-scale VR experience
+- Built object highlighting and pickup/grabbing mechanics to support intuitive puzzle interaction
+- Developed puzzle validation logic to drive gameplay progression
+- Created procedural portal VFX in Niagara to enhance visual feedback and scene transitions
+- Implemented a trigger-based jumpscare system combining AI movement, animation, and synchronized audio cues
+- Focused on environmental mood, pacing, and visual storytelling for horror-oriented immersion
 
 ---
 
-#### 2. [Thermal Visuals in VR CAVE and HMD_Obstable Course_CAVE Ver](https://github.com/majagou/ThermalPerception_CAVE) | [HMD Ver](https://github.com/majagou/ThermalPercpetionHMD)
-**A research-driven VR project exploring how visual design influences perceived temperature in immersive environments. Supervised under the Leibniz Supercomputing Centre (LRZ)**
+#### 2. [Thermal Visuals in VR – CAVE Version](https://github.com/majagou/ThermalPerception_CAVE) | [HMD Version](https://github.com/majagou/ThermalPercpetionHMD)
+**Research-Driven VR Prototype on Visual Influences on Thermal Perception in CAVE and HMD Setups**
+*Supervised under the Leibniz Supercomputing Centre (LRZ)*
 
-The project investigates how environmental visuals such as lighting, color, visual effects, scene composition, and atmosphere can shift users’ thermal perception, even when physical temperature remains unchanged.
+A research-oriented VR project investigating how visual design elements can influence perceived temperature in immersive environments. The project compares implementations across both a CAVE system and an HMD setup, with a focus on how lighting, color, atmosphere, and environmental effects shape thermal perception and immersion.
 
 **Tech Stack**:
 - Unreal Engine 5
-- Blueprints
-- Materials/Shaders
+- Blueprint scripting
+- Materials and shaders
 - Post-process effects
-- Level design for immersive VR
 - VR interaction systems
+- Environmental VFX workflows
 - Experimental scene logic
-- Git + Git LFS for large Unreal assets
-- CAVE rendering / multi-display immersive environment integration
-- HMD VR setup and interaction support
-- Environmental VFX pipelines
-- Research-oriented scene variation design
+- CAVE rendering and multi-display integration
+- HMD VR interaction support
+- Git and Git LFS for Unreal asset version control
 
-**Key Features**: Feature 1, Feature 2, Feature 3
+**Key Features**:
+- Built around an obstacle-course navigation task to study thermal perception during active movement in immersive VR
+- Built parallel versions for both CAVE and HMD platforms to support comparative immersive research
+- Implemented environmental variations using lighting, color, atmosphere, and visual effects to manipulate thermal cues
+- Created scene logic and interaction flow for controlled research-driven VR experiences
+- Applied immersive level design principles to strengthen presence, mood, and perceptual impact
+- Supported cross-platform deployment in large-scale immersive systems and standard HMD VR setups
 
 ---
 
