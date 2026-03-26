@@ -82,9 +82,8 @@ A research-oriented VR project investigating how visual design elements can infl
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
-| **Project 4** | Short description | Python, Django | [View →](https://github.com/majagou/project-4) |
-| **Project 5** | Short description | JavaScript, Express | [View →](https://github.com/majagou/project-5) |
-| **Project 6** | Short description | React Native | [View →](https://github.com/majagou/project-6) |
+| **InfoVis** | Data Visualisation of Public Traffic Networks in Munich | JavaScript, HTML, CSS, D3.js | [View →](https://github.com/majagou/InfoVis-Munich) |
+| **Shared Workspace Awareness** | Gesture-based Human Robot Interaction| ROS2, Python, MoveIt, Linux | [View →](https://github.com/ChristophPoelt/Shared-Workspace-Awareness) |
 
 ## 📫 Get In Touch
 
