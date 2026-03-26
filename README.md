@@ -89,7 +89,6 @@ A research-oriented VR project investigating how visual design elements can infl
 
 - 💼 LinkedIn: [Shiyi Gou](https://www.linkedin.com/in/shiyi-gou-1448582ab/)
 - 📧 Email: goumaja@gmail.com
-%% - 🌐 Portfolio Website: [yourwebsite.com](https://yourwebsite.com) %%
 
 ## 🤝 Contributing
 
